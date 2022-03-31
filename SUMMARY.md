@@ -14,7 +14,6 @@
         * [Arab Wallet Exchange](master/arab-network-ecosystem/arab-wallet/ecosystem/arab-wallet-exchange.md)
         * [Hardware Wallet](master/arab-network-ecosystem/arab-wallet/ecosystem/hardware-wallet.md)
         * [Hala AI Virtual Assistant](master/arab-network-ecosystem/arab-wallet/ecosystem/hala-ai-virtual-assistant.md)
-        * [Noorseen Protocol](master/arab-network-ecosystem/arab-wallet/ecosystem/noorseen-protocol.md)
     * [Arab Crypto Talk](master/arab-network-ecosystem/arab-crypto-talk/README.md)
       * [Protocol](master/arab-network-ecosystem/arab-crypto-talk/protocol.md)
       * [Ecosystem](master/arab-network-ecosystem/arab-crypto-talk/ecosystem.md)

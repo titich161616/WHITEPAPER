@@ -28,7 +28,7 @@
 * ChainBridge implementation
 * Network stress testing
 * Public TestNet Releas
-* Arab Network Testnet Faucet
+* Arab Blockchain Testnet Faucet
 
 **Q1 2022**
 
