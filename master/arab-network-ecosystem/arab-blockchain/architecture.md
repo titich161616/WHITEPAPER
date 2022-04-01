@@ -16,8 +16,6 @@ The Arab Network Development team has already developed a user-friendly mobile a
 
 **Arab Blockchain** uses Polygon Edge as a modular and extensible framework to build a sidechain Ethereum scaling solution by changing the consensus algorithms supported on Polygon Edge to our Permissionless mechanism called "**Noorseen Protocol"** that uses (Pure Proof of Stake) consensus mechanism. With blocks finalized in seconds, Arab Blockchain is the first blockchain to enable ultimate security, fast transaction finality, and low transaction fees on Ethereum.
 
-#### **** <a href="#why-is-algorand-such-a-unique-blockchain" id="why-is-algorand-such-a-unique-blockchain"></a>
-
 ## Decentralization <a href="#decentralization" id="decentralization"></a>
 
 **Arab Blockchain** technology is completely decentralized, which means that there is no central authority or single point of control. Each block is approved by a special committee of users chosen randomly and in secrecy. Nodes are operated by entities from a variety of different countries.
