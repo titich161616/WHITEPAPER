@@ -11,7 +11,7 @@
       * [Tokenomics](master/arab-network-ecosystem/arab-blockchain/tokenomics.md)
     * [Arab Gate](master/arab-network-ecosystem/arab-gate/README.md)
       * [Ecosystem](master/arab-network-ecosystem/arab-gate/ecosystem/README.md)
-        * [Arab Wallet Exchange](master/arab-network-ecosystem/arab-gate/ecosystem/arab-wallet-exchange.md)
+        * [Arab Gate Exchange](master/arab-network-ecosystem/arab-gate/ecosystem/arab-gate-exchange.md)
         * [Hardware Wallet](master/arab-network-ecosystem/arab-gate/ecosystem/hardware-wallet.md)
         * [Hala AI Virtual Assistant](master/arab-network-ecosystem/arab-gate/ecosystem/hala-ai-virtual-assistant.md)
     * [Arab Crypto Talk](master/arab-network-ecosystem/arab-crypto-talk/README.md)
