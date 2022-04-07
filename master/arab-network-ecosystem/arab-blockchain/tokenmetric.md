@@ -1,4 +1,4 @@
-# Tokenomics
+# Tokenmetric
 
 Tokenomics are important&#x20;
 
@@ -21,6 +21,14 @@ One billion ARAB tokens will be minted at genesis to operate the blockchain with
 ![](../../../.gitbook/assets/image.png)
 
 The initial token distribution is as follows:
+
+| Sumary                          | Allocation | Token release schedule                                                                                                    |
+| ------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Public sale**                 | **30%**    | **50%** of the token will be released at TGE (Token Generation Event), and the rest will be vested **25%** each quarter). |
+| **Ecosystem**                   | **23%**    |                                                                                                                           |
+| **Network Operations**: **12%** | **12%**    |                                                                                                                           |
+| **Team**                        | **16%**    | (**10%** of the token will be released every 12 months)                                                                   |
+| **Marketing**                   | **19%**    | (**10%** will be released 90 days after TGE and the rest will be vested **20%** each quarter).                            |
 
 **Public sale**: **30%** (**50%** of the token will be released at TGE (Token Generation Event), and the rest will be vested **25%** each quarter).
 
