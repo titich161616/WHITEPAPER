@@ -12,7 +12,7 @@ Our goal is to become the Arab World's leading source for information about bloc
 
 Built on the ArabCryptoTalk protocol Arab Network Academy uses the same governance architecture to reward experts that publish online courses and students for staking and voting.
 
-The governance module will be published to the community for voting and approval
+The governance module will be published to the community for voting and approval.
 
 
 

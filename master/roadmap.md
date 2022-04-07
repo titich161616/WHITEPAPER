@@ -11,7 +11,7 @@
 
 **Q4.2021**
 
-* Arab wallet App Development (Android & IOS version).
+* Arab Gate App Development (Android & IOS version).
 * ArabCryptoTalk project launch.
 * Arab Academy project launch.
 
@@ -22,7 +22,7 @@
 * Whitepaper v1 released
 * Arab wallet App Android & IOS version release
 * NFT deployed
-* Launch ARAB public sale
+* Launch Arab coin public sale
 
 **Q1.P2 2022**
 

@@ -2,7 +2,7 @@
 
 ## All in One Gate
 
-Arab Gate is a non-custodial wallet that will connect billions of users around the world safely. Arab Wallet offers multi-chain (NFT & cryptocurrency), DEX, Cross-chain Bridge & DApp Browser, and others.
+Arab Gate is a non-custodial wallet that will connect billions of users around the world safely. Arab Gate offers multi-chain (NFT & cryptocurrency), DEX, Cross-chain Bridge & DApp Browser, and others.
 
 Arab Gate is a key component of future multichain protocols/applications, acting as a single point of access to various DeFi services across multiple blockchains. By having variations on the wallet, we have established a solid platform for expanding our product suite.
 
@@ -14,9 +14,7 @@ We believe that cross-chain and multi-chain architectures are the future of bloc
 
 **What makes Arab Gate stand out?**
 
-#### Low fees, high speeds
 
-###
 
 **Hight security**
 

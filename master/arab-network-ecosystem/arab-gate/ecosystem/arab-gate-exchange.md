@@ -4,7 +4,7 @@
 
 Arab Wallet Exchange is a decentralized exchange that provides users with liquidity from various sources across many blockchains. A quick and secure swap with the best possible price and slippage.
 
-![](<../../../../.gitbook/assets/image (1).png>)
+![](<../../../../.gitbook/assets/image (1) (1).png>)
 
 
 

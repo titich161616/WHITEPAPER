@@ -18,6 +18,8 @@ One billion ARAB tokens will be minted at genesis to operate the blockchain with
 
 **Initial Token Distribution**
 
+![](../../../.gitbook/assets/image.png)
+
 The initial token distribution is as follows:
 
 **Public sale**: **30%** (**50%** of the token will be released at TGE (Token Generation Event), and the rest will be vested **25%** each quarter).

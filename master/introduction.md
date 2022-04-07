@@ -10,31 +10,4 @@ Arab Network is founding an innovative community that will raise awareness on te
 
 A world where value is created and exchanged by everyone in an efficient, open, and secure manner.
 
-## Values
-
-**Community**
-
-
-
-**Don't Be Afraid**
-
-Dare to fail
-
-Positivity is contagious, so use it!
-
-**Think Outside The Box!**
-
-Open your mind
-
-Share your ideas
-
-**Succeed Together**
-
-Act with integrity
-
-Keep your promises
-
-**Humans, not resources**
-
-Human beings are not "commodities" or "resources", you are a **creative and social being**
-
+![Our Values](<../.gitbook/assets/Untitled (4).jpg>)
