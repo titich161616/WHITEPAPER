@@ -10,4 +10,4 @@ Arab Network is founding an innovative community that will raise awareness on te
 
 A world where value is created and exchanged by everyone in an efficient, open, and secure manner.
 
-![Our Values](<../.gitbook/assets/Untitled (4).jpg>)
+![Our Values](<../.gitbook/assets/Untitled (5).jpg>)

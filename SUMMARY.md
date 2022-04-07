@@ -8,7 +8,7 @@
     * [Arab Blockchain](master/arab-network-ecosystem/arab-blockchain/README.md)
       * [Architecture](master/arab-network-ecosystem/arab-blockchain/architecture.md)
       * [Development Roadmap](master/arab-network-ecosystem/arab-blockchain/development-roadmap.md)
-      * [Token metrics](master/arab-network-ecosystem/arab-blockchain/token-metrics.md)
+      * [Token metrics](master/arab-network-ecosystem/arab-blockchain/tokenmetric.md)
     * [Arab Gate](master/arab-network-ecosystem/arab-gate/README.md)
       * [Ecosystem](master/arab-network-ecosystem/arab-gate/ecosystem/README.md)
         * [Arab Gate Exchange](master/arab-network-ecosystem/arab-gate/ecosystem/arab-gate-exchange.md)
