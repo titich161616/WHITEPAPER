@@ -30,7 +30,7 @@
 * Public TestNet Releas
 * Arab Blockchain Testnet Faucet
 
-**Q1 2022**
+**Q1 2023**
 
 ### Arab Blockchain 1.0 Launch (Mainnet Launch)
 
