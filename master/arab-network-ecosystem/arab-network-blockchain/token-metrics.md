@@ -8,7 +8,7 @@ Therefore, it is essential to understand the total supply of each cryptocurrency
 
 **Arab Tokenomics**
 
-Arab Coin is the native token of the Arab blockchain, fueling all transactions, dApps, staking, and more.
+Arab Coin is the native token of the Arab Network blockchain, fueling all transactions, dApps, staking, and more.
 
 Arab Coin holders can also take part in blockchain governance, a governance engine for transparent, immutable, determinist
 

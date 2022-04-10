@@ -32,7 +32,7 @@
 
 **Q1 2023**
 
-### Arab Blockchain 1.0 Launch (Mainnet Launch)
+### Arab Network Blockchain 1.0 Launch (Mainnet Launch)
 
 
 

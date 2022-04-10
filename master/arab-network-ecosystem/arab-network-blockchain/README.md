@@ -1,4 +1,4 @@
-# Arab Blockchain
+# Arab Network Blockchain
 
 **Abstract**
 
@@ -10,8 +10,8 @@ Aside from that, many of the upcoming solutions propose building their blockchai
 
 
 
-Arab Blockchain is trying to solve problems with scalability and usability while not sacrificing decentralization and using the existing developer community and ecosystem to do so. It is a side-chain scaling solution for existing platforms that enables DApps/users to scale and give a greater user experience.
+Arab Network Blockchain is trying to solve problems with scalability and usability while not sacrificing decentralization and using the existing developer community and ecosystem to do so. It is a side-chain scaling solution for existing platforms that enables DApps/users to scale and give a greater user experience.
 
 ****
 
-Arab blockchain “vision” is to provide a side chain scaling solutions for all blockchains. Arab Network aims to provide payment APIs & SDKs, wallets, products, and other solutions for developers to create and migrate DApps built on Ethereum and other base platforms. Arab Blockchain's ideology is based on improving user experience. This includes cross-chain transactions, Decentralized exchanges, and liquidity pools.
+Arab Network blockchain “vision” is to provide a side chain scaling solutions for all blockchains. Arab Network aims to provide payment APIs & SDKs, wallets, products, and other solutions for developers to create and migrate DApps built on Ethereum and other base platforms. Arab Network Blockchain's ideology is based on improving user experience. This includes cross-chain transactions, Decentralized exchanges, and liquidity pools.
