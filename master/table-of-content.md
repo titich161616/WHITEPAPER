@@ -18,7 +18,8 @@
   * Arab Women Talk Crypto
   * Kids Talk Crypto
 * **Prison of Knowledge**
-* **Arab Network Grant program**
 * **Devtrezor**
+* **Arab Network Grant program**
+* **Babylon NFT Marketplace**
 * **Roadmap**
 * **Team**
