@@ -11,6 +11,8 @@
   * Tokenomics
 * **Arab Gate**
   * Ecosystem
+  * Arab Gate Exchange
+  *
 * **Arab Academy**
 * **AarabCryptoTalt**
   * Ecosystem

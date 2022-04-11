@@ -2,7 +2,7 @@
 
 **Q1 2022**
 
-### Set up your development environment
+### Set up development environment
 
 * Set up a polygon-edge network locally
 * Manage Private Keys
