@@ -1,10 +1,10 @@
 # Protocol
 
-## ACT Network protocol
+![ACT Protocol](<../../../.gitbook/assets/Untitled (9).jpg>)
+
+### ACT Network protocol
 
 The ArabCryptoTalk Network (ACT) is a decentralized information database platform that uses a decentralized headless content management system that is entirely controlled by token holders. Token holders have the right to approve or reject network-wide rules that govern ArabCryptoTalk, and buy-sell services on the network.
-
-![ACT Protocol](<../../../.gitbook/assets/Customer Touchpoint Map (9).jpg>)
 
 ### Token module
 
