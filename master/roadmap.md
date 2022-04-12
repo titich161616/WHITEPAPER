@@ -13,7 +13,7 @@
 
 * Arab Gate App Development (Android & IOS version).
 * ArabCryptoTalk project launch.
-* Arab Academy project launch.
+* Arab Network Academy project launch.
 
 **Q1.P1 2022**
 
