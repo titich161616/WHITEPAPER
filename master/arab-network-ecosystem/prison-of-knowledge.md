@@ -25,3 +25,7 @@ We anticipate that users will publish, share, and collect unique digital assets 
 **Social**
 
 Groups that now meet in online forums, chat rooms, or even centralized multiplayer games might move their communities to **Prison Of Knowledge**. Communities may also find a home in **Prison Of Knowledge**.
+
+**Summary**
+
+**Prison Of Knowledge** will be the first distributed virtual world platform that allows developers to build and commercialize apps on top of it. The scarcity of land on which to build apps produces hotspots that catch user attention, generating money for content providers. In-world, Arab coins will be used to acquire land, products, and services. Arab coins will also be utilized to encourage content production and user adoption, therefore launching the first decentralized virtual world in the Arab world.
