@@ -2,7 +2,7 @@
 
 **Q2.2020**
 
-* Founding of Arab network community.
+* Founding the Arab network community.
 * Team build-up.
 
 **Q4.2020**
@@ -12,8 +12,8 @@
 **Q4.2021**
 
 * Arab Gate App Development (Android & IOS version).
-* ArabCryptoTalk project launch.
-* Arab Network Academy project launch.
+* ArabCryptoTalk infrastructure setup.
+* Arab Network Academy infrastructure setup.
 
 **Q1.P1 2022**
 
@@ -30,8 +30,8 @@
 
 * Team Buildup
 * Setting up the whole infrastructure
-* Arab NFT Dex launch
-* NFT Marketplace testnet release
+* Arab Gate exchange launch
+* Babylon NFT Marketplace testnet release
 
 **Q1.P3 2022**
 
@@ -50,6 +50,14 @@
 * TPS Performance test&#x20;
 * Launch Devtrezor mainnet
 
-**Q4P2. 2022**
+**Q4 P2.2022**
 
-**Arab Blockchain mainnet launch**
+**Hardware wallet first prototype**&#x20;
+
+**Hala AI-VA beta launch**
+
+****
+
+**Q2. 2023**
+
+**Arab Network Blockchain mainnet launch**

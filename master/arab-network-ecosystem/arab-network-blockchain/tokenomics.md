@@ -1,4 +1,4 @@
-# Token metrics
+# Tokenomics
 
 Tokenomics are important&#x20;
 
@@ -20,4 +20,4 @@ One billion ARAB tokens will be minted at genesis to operate the blockchain with
 
 The initial token distribution is as follows:
 
-![](<../../../.gitbook/assets/Untitled (16).jpg>)
+![Tokenomics](<../../../.gitbook/assets/Untitled (16).jpg>)
