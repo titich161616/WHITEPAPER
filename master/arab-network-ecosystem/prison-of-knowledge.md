@@ -16,3 +16,12 @@ The prison of knowledge is a concept developed by Arab Network team with a visio
 
 #### Education
 
+Teachers from Arab Network Academy and students can meet regardless of their real-world location. Teachers can call upon their traveled knowledge to accurately inform their students.
+
+**Digital Collectibles**
+
+We anticipate that users will publish, share, and collect unique digital assets issued by their creators on the **Prison Of Knowledge** ecosystem. Users will trade these assets inside this world.
+
+**Social**
+
+Groups that now meet in online forums, chat rooms, or even centralized multiplayer games might move their communities to **Prison Of Knowledge**. Communities may also find a home in **Prison Of Knowledge**.

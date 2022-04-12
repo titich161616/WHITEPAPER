@@ -1,8 +1,10 @@
 # Architecture
 
+![](<../../../.gitbook/assets/Untitled (10).jpg>)
+
 **Introducing The Arab Blockchain**
 
-**Arab Netwok Blockchain** combines the best of Ethereum and sovereign blockchains to give a full-stack scaling solution for public blockchains. &#x20;
+**Arab Network Blockchain** combines the best of Ethereum and sovereign blockchains to give a full-stack scaling solution for public blockchains. &#x20;
 
 The Arab Network Development team has already developed a user-friendly mobile app wallet and browser extension. Users will be able to pay, transfer, and hold crypto assets without concern for the underlying system's complexity.
 
@@ -10,7 +12,7 @@ The Arab Network Development team has already developed a user-friendly mobile a
 
 ### **How** Arab Network Blockchain is Such a Unique Blockchain? <a href="#why-is-algorand-such-a-unique-blockchain" id="why-is-algorand-such-a-unique-blockchain"></a>
 
-**Arab Netwok Blockchain** has solved the blockchain trilemma challenge for crypto developers & creators: decentralization, scale, and security. You may now innovate on a solid foundation.
+**Arab Network Blockchain** has solved the blockchain trilemma challenge for crypto developers & creators: decentralization, scale, and security. You may now innovate on a solid foundation.
 
 ## **Noorseen Protocol**
 
