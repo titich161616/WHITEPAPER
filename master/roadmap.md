@@ -22,7 +22,7 @@
 * Whitepaper v1 released
 * Arab wallet App Android & IOS version release
 * NFT deployed
-* Launch Arab coin public sale
+* Launch Arab coin&#x20;
 
 **Q1.P2 2022**
 

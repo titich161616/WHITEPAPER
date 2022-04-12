@@ -1,6 +1,6 @@
 # Architecture
 
-![](<../../../.gitbook/assets/Untitled (10).jpg>)
+![Architecture](<../../../.gitbook/assets/Untitled (10).jpg>)
 
 **Introducing The Arab Blockchain**
 
