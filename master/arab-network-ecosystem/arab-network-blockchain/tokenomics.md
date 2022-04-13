@@ -6,7 +6,7 @@ Briefly, supply and demand are the names of the game with tokenomics. As with al
 
 Therefore, it is essential to understand the total supply of each cryptocurrency and how much of this supply circulates.
 
-**Arab Tokenomics**
+**Arab Coin Tokenomics**
 
 Arab Coin is the native token of the Arab Network blockchain, fueling all transactions, dApps, staking, and more.
 

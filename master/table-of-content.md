@@ -14,9 +14,9 @@
     * [Arab Gate Exchange](arab-network-ecosystem/arab-gate/ecosystem/arab-gate-exchange.md)
     * [Hardware Wallet](arab-network-ecosystem/arab-gate/ecosystem/hardware-wallet.md)
     * [Hala AI Virtual Assistant](arab-network-ecosystem/arab-gate/ecosystem/hala-ai-virtual-assistant.md)
-* ****[**Aarab Crypto Taltk**](arab-network-ecosystem/arab-crypto-talk/)****
-  * [Ecosystem](arab-network-ecosystem/arab-crypto-talk/ecosystem.md)
+* ****[**Aarab Crypto Talk**](arab-network-ecosystem/arab-crypto-talk/)****
   * [Protocol](arab-network-ecosystem/arab-crypto-talk/protocol.md)
+  * [Ecosystem](arab-network-ecosystem/arab-crypto-talk/ecosystem.md)
   * [Arab Women Talk Crypto](arab-network-ecosystem/arab-crypto-talk/arab-women-talk-crypto.md)
   * [Kids Talk Crypto](arab-network-ecosystem/arab-crypto-talk/kids-talk-crypto.md)
 * ****[**Arab Network Academy**](arab-network-ecosystem/arab-network-academy.md)****
