@@ -1,8 +1,8 @@
 # Babylon NFT Marketplace
 
-Every year, the market of NFTs grows exponentially, and they're flying off the shelves. A CAGR of 18.7% has been predicted for the global B2B eCommerce industry from 2021 to 2028, which is $6.64 trillion. In 2020, The NFT market was worth over $340 million will be over $40 billion in 2022.
+Every year, the market of NFTs grows exponentially, and they're flying off the shelves. A CAGR of 18.7% has been predicted for the global B2B eCommerce industry from 2021 to 2028, which is $6.64 trillion. In 2020, The NFT market was worth over $340 million and will be over $40 billion in 2022.
 
-Babylon offers a seamless marketplace interface for a wide range of use cases, including gaming, metaverse platforms. With this, creatives, businesses, and entrepreneurs may start laying their hands on rewarding avenues and transacting their NFTs. Creating an NFT marketplace has never been easier!
+Babylon offers a seamless marketplace interface for various use cases, including gaming, metaverse platforms. With this, creatives, businesses, and entrepreneurs may start laying their hands on rewarding avenues and transacting their NFTs. Creating an NFT marketplace has never been easier!
 
 ### Features <a href="#solution" id="solution"></a>
 
