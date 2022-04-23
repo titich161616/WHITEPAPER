@@ -1,4 +1,4 @@
-# Babylon
+# Babylon NFT Marketplace
 
 Every year, the market of NFTs grows exponentially, and they're flying off the shelves. A CAGR of 18.7% has been predicted for the global B2B eCommerce industry from 2021 to 2028, which is $6.64 trillion. In 2020, The NFT market was worth over $340 million will be over $40 billion in 2022.
 
@@ -26,14 +26,14 @@ Whenever a user proposes NFT swaps with another user, they must first authorize 
 
 #### Commission <a href="#commission" id="commission"></a>
 
-Babylon charges a commission of 1% on each NFT sold in other cryptocurrencies or fiat, and 0.5 percent on each NFT sold in the platform's native utility token "**Baby**".
+Babylon charges a commission of 1% on each NFT sold in other cryptocurrencies or fiat, and 0.5 percent on each NFT sold in the platform's native utility token "**Babylon**".
 
-**Baby Token**
+**Babylon Token**
 
-The Baby token is the native utility token for the protocol and is used to incentivize actions across the system with a total supply of 100.000.000. **Initially, Arab Coin holders are going to be airdropped with Baby based on their Arab Coin balance.**
+The Babylon token is the native utility token for the protocol and is used to incentivize actions across the system with a total supply of 100.000.000. **Initially, Arab Coin holders are going to be airdropped with Baby based on their Arab Coin balance.**
 
 
 
-**Baby Usecase**
+**Babylon token Usecase**
 
-Within the Babylon ecosystem, Baby is used as a utility token that enables users to fee discounts of 0.5%. in addition, The amount of Baby tokens is used to determine access to certain features, such as premium custom profiles, early access to new exclusive/special drops, and access to "members-only" areas, like the NFT Launchpad.
+Within the Babylon ecosystem, Babylon token is used as a utility token that enables users to fee discounts of 0.5%. in addition, The amount of Babylon tokens are used to determine access to certain features, such as premium custom profiles, early access to new exclusive/special drops, and access to "members-only" areas, like the NFT Launchpad.
