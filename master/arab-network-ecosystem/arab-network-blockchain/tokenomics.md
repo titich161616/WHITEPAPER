@@ -24,8 +24,6 @@ The initial distribution of ArabCoin is as follows:
 * 12.5% to team members
 * 53.9% locked for the Community reserve fund (the Arab Network community manages the unlock (period & allocation by voting)
 
-Phases update period (24 hours to 1 week)
-
 
 
 | Phase        | Price (USD) | Token release schedule                                                                                          | Babylon Token airdrop |
