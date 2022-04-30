@@ -28,10 +28,7 @@ Phases update period (24 hours to 1 week)
 
 
 
-| Phase | Price (USD) | Token release schedule                                                                                          | Babylon Token airdrop |
-| ----- | ----------- | --------------------------------------------------------------------------------------------------------------- | --------------------- |
-| 1     | 0.035       | 20% of the tokens will be released at TGE (Token generation event), and the rest will be vested 20% each month. | 10%                   |
-| 2     | 0.07        | 25% of the tokens will be released at TGE, and the rest will be vested at 25% each month.                       | 20%                   |
-| 3     | 0.105       | 30% of the tokens will be released at TGE, and the rest will be vested at 25% each month.                       | 30%                   |
-| 4     | 0.140       | 35% of the tokens will be released at TGE, and the rest will be vested at 25% each month.                       | 40%                   |
-| 5     | 0.175       | 40% of the tokens will be released at TGE, and the rest will be vested at 25% each month.                       | 50%                   |
+| Phase        | Price (USD) | Token release schedule                                                                                          | Babylon Token airdrop |
+| ------------ | ----------- | --------------------------------------------------------------------------------------------------------------- | --------------------- |
+| Private Sale | 0.035       | 35% of the tokens will be released at TGE (Token generation event), and the rest will be vested 20% each month. | 30%                   |
+| Public Sale  | 0.07        | 50% of the tokens will be released at TGE, and the rest will be vested at 25% each month.                       | 50%                   |
